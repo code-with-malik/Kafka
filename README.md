@@ -1,4 +1,4 @@
-#YouTube Channel
+# YouTube Channel
 If you're looking to learn more about Apache Kafka please go throught the couses on our Youtube channel:
 https://www.youtube.com/@codewithmalik2944
 
