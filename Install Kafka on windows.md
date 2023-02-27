@@ -18,7 +18,7 @@ dataDir=C:/Kafka/kafka/zookeeper-data
 
 #### Step 4:Modify the config/server.properties file. Below is the change:
 ```javascript server
-dataDir=C:/Kafka/kafka/zookeeper-data
+dataDir=C:/Kafka/kafka/kafka_logs
 ```
 ![Kafka](images/server.png?raw=true "Kafka")
 
