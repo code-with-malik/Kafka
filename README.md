@@ -1,6 +1,6 @@
 # YouTube Channel
 If you're looking to learn more about Apache Kafka please go throught the couses on our Youtube channel:
-https://www.youtube.com/@codewithmalik2944
+https://youtube.com/playlist?list=PLztMKKdMhujk2DiRXc0R37K4mLiuK7Whc
 
 ## Introduction
 Apache Kafka is an open-source distributed streaming platform that was initially developed at LinkedIn. It is designed to handle large volumes of real-time data from various sources, including sensors, applications, and databases.

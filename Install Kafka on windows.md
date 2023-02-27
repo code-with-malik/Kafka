@@ -1,5 +1,15 @@
 ### Watch on youtube: https://youtube.com/playlist?list=PLztMKKdMhujk2DiRXc0R37K4mLiuK7Whc
 
+#### Prerequisites java 8
+How to setup java in windows: https://youtu.be/3T-8UEZGm04
+![Kafka](images/java.png?raw=true "Kafka")
+```javascript unzip file
+java -version
+javac -version
+echo %JAVA_HOME%
+```
+
+
 # Installing Kafka on Windows involves the following steps:
 
 #### Step 1:Download the latest version of Apache Kafka from the official website https://kafka.apache.org/downloads.
