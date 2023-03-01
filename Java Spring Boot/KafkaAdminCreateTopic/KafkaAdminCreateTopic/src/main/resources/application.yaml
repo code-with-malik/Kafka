@@ -1,0 +1,4 @@
+spring:
+  kafka:
+   bootstrap-servers: "localhost:9092"
+   topic: "Create.topic.using.springBoot.and.kafkaAdmin"
