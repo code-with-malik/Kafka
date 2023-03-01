@@ -62,3 +62,12 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from
 ```
 
 ![Kafka](images/PrdCns.png?raw=true "Kafka")
+
+#### Step 6: List the all the topic to verify:
+```javascript Create topic
+.\bin\windows\kafka-topics.bat --bootstrap-server=localhost:9092 --list
+```
+
+
+
+
