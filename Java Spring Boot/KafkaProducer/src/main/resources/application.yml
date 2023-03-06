@@ -1,0 +1,6 @@
+server:
+  port: 8001
+spring:
+  kafka:
+    bootstrap-servers: "localhost:9092"
+    topic: "Kafka-producer-topic"

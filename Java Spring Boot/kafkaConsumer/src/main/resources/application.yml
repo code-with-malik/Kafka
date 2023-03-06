@@ -1,0 +1,6 @@
+server:
+  port: 8002
+spring:
+  kafka:
+    bootstrap-servers: "localhost:9092"
+    group-id: "Consumer-Group-1"
